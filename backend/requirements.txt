@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+deta
+python-multipart
+websockets
+psycopg2-binary
+sqlalchemy
+sqlalchemy-cockroachdb
